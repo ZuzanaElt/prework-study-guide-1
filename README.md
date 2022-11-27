@@ -15,7 +15,11 @@ N/A
 
 ## Usage
 
-The guide is simple and easy to navigate. The information is split into four sections that allow us to find easily required content.
+The guide is simple and easy to navigate. The information is split into four sections that allow us to find required content.
+HTML
+CSS
+JavaScript
+Git
 
 
 ## Credits
@@ -23,6 +27,5 @@ The guide is simple and easy to navigate. The information is split into four sec
 N/A
 
 ## License
-
 This is licenced under MIT licence
 
